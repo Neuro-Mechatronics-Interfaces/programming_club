@@ -11,4 +11,4 @@ In this example, you will:
 You will add a word to the sentence under the next header, one word at a time, and using the GitHub `Pull Request` system we will play "once upon a time."  
 
 ## Add one word to this story ##  
-Once upon a time, the professor asked
+Once upon a time, the professor asked his dog to go fetch the ball.
